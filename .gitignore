@@ -1,0 +1,5 @@
+# Ignorar archivos de configuración de entorno
+.env
+
+# Ignorar todos los archivos .json
+*.json
